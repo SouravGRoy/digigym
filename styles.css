@@ -1,0 +1,176 @@
+.body{
+    text-align: center;
+}
+.head {
+    text-align: center;
+    background-color: gold;
+
+    color: black;
+    font-size: xxx-large;
+}
+.about{
+    width: 100%;
+    height:800px
+    ;
+}
+.head2{
+    position: relative;
+    bottom: 800px;
+    text-align: center;
+    font-size: xx-large;
+}
+.para{
+    position: relative;
+    bottom: 800px;
+    text-align: center;
+    font-size: x-large;
+}
+.box{
+border-radius: 10px;
+    background-color:white;
+    color:black
+    
+}
+.head3{
+    position: absolute;
+    bottom: 400px;
+    left: 900px;
+    text-align: center;
+    font-size: xx-large;
+}
+.para2{
+    position: absolute;
+    bottom: 80px;
+    left: 870px;
+    text-align: center;
+    font-size: x-large;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.head4{
+    position: absolute;
+    top: 1000px;
+    left: 180px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.para3{
+    position: absolute;
+    text-align: left;
+    top: 1100px;
+    left: 100px;
+    font-size: x-large;
+}
+.david{
+    position: absolute;
+    top: 1250px;
+    left: 900px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.opacity{
+    position: absolute;
+    top: 1180px;
+    left: 980px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    opacity:0.5 ;
+}
+.contactwith{
+    position: absolute;
+    top: 2100px;
+    left: 600px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.teamy{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.ANKAN{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    position: relative;
+    top: 50px;
+    right:100px;
+    box-shadow: 10px 10px;
+border-style: groove;
+color: gray;
+}
+.SOURAV{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    position: relative;
+    top: 50px;
+    right:20px;
+    box-shadow: 10px 10px;
+border-style: groove;
+color: rgba(37, 35, 35, 0.91);
+}
+.TANIL{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    position: relative;
+    top: 50px;
+    left:100px;
+    box-shadow: 10px 10px;
+border-style: groove;
+color:red;
+}
+.ADITYA{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    position: relative;
+    top: 50px;
+    left: 200px;
+    box-shadow: 10px 10px;
+border-style: groove;
+color: gold;
+}
+.ankan{
+    position: relative;
+    top: 0px;
+    left: 100px;
+}
+.sourav{
+    position: relative;
+    top: 0px;
+    left: 200px;
+}
+.tanjil{
+    position: relative;
+    top: 0px;
+    left: 300px;
+}
+.aditya{
+    position: relative;
+    top: 0px;
+    left: 400px;
+}
+.GOAL{
+    font-size: 400%;
+    position: relative;
+    background-color: green;
+    border-radius: 20px;
+    width: 100%;
+
+}
+
+
+.matrix{
+    width: 350px;
+    height: 350px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 350px;
+    right: 350px;
+}

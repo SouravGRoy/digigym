@@ -1,0 +1,941 @@
+body{
+    text-align: center;
+}
+.digi{
+    position: absolute;
+    top: 10px;
+    left: 590px;
+    font-size: xxx-large;
+    color: rgb(255, 255, 255);
+}
+h2{
+    position: relative;
+    top: 400px;
+    font-size: xx-large;
+
+}
+
+.weapon{
+    width: 100%;
+   height: 700px;
+}
+.zyzz{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 30px;
+    top: 250px;
+    color: white;
+border-radius: 100%;    
+
+}
+.BodyPart{
+    position: absolute;
+    bottom: 800px;
+    background-color: azure;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+.chest{
+    position: relative;
+
+    width: 100px;
+    height: 100px;
+    position: relative;
+    
+     bottom: 330px;
+     left: 25px;
+     background-color: red;
+     border-radius: 100px;
+     
+}
+.C{
+    position: relative;
+    
+     bottom: 330px;
+     left: 30px;
+     color: rgb(0, 0, 0);
+}
+.tricep{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 440px
+     ;
+     right:120px ;
+     background-color: black;
+     border-radius: 100px;
+
+} 
+.T{
+    position: relative;
+    
+    bottom: 465px;
+    right:130px ;
+    color: rgb(0, 0, 0);
+}
+
+.shoulder{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 605px;
+     ;
+     left: 180px;
+     background-color: green;
+     border-radius: 100px;
+
+
+}
+.S{
+    position: relative;
+    
+    bottom: 630px;
+    left:195px ;
+    color: rgb(0, 0, 0);
+}
+.back{
+    width: 100px;
+    height: 100px;
+    position: relative;
+   bottom: 650px;
+left: 250px;
+     background-color: rgb(0, 15, 128);
+     border-radius: 100px;
+
+}
+.B{
+    position: relative;
+    
+    bottom: 670px;
+    left:240px ;
+    color: rgb(0, 0, 0);
+}
+
+.biceps{
+    width: 100px;
+    height: 100px;
+    position: relative;
+     bottom: 813px;
+     right: 190px;
+     background-color: rgb(251, 255, 0);
+     border-radius: 100px;
+
+
+}
+.b{
+    position: relative;
+    
+    bottom: 836px;
+    right: 185px;
+    color: rgb(0, 0, 0);
+}
+
+
+.legs{
+    width: 100px;
+    height: 100px;
+    position: relative;
+   bottom: 850px;
+     left: 230px;
+     background-color:violet;
+     border-radius: 100px;
+}
+.L{
+    position: relative;
+    
+    bottom: 865px;
+    left: 230px;
+    color: rgb(0, 0, 0);
+}
+
+.abs{
+    width: 100px;
+    height: 100px;
+    position: relative;
+bottom: 890px;     
+     left: 28px;
+     background-color: skyblue;
+     border-radius: 100px;
+}
+.A{
+    position: relative;
+    
+    bottom: 905px;
+    left: 27px;
+    color: rgb(0, 0, 0);
+}
+
+.calves{
+    width: 100px;
+    height: 100px;
+    position: relative;
+bottom: 1180px;     
+     right: 170px;
+     background-color: grey;
+     border-radius: 100px;
+
+}
+.c{
+    position: relative;
+    
+    bottom: 1190px;
+    right: 170px;
+    color: rgb(0, 0, 0);
+}
+.maki{
+    position: relative;
+    top: 550px;
+    border-style:none;
+    border-top-style:dotted;
+    border-color: gray;
+    border-width: 10px;
+    width: 40%;
+    left: 30px;
+
+
+}
+.MuscleBlaze{
+    position: relative;
+    left: 100px;
+    top: 695px;
+    width: 50%;
+    height: 680px;
+}
+.buy{
+    position: relative;
+    top: 320px;
+    left: 330px;
+    color:rgb(0, 166, 255) ;
+    font-size: x-large;
+    font-weight: bold ;
+    font-style:fantasy;
+}
+.details{
+    position: relative;
+    top: 350px;
+    right: 150px;
+    color:rgb(0, 166, 255) ;
+    font-size: x-large;
+    font-weight: bold ;
+    font-style:fantasy;
+}
+
+.stop{
+    width: 600px;
+    height: 800px;
+    position: relative;
+    top: 216px;
+    left: 80px;
+     
+}
+
+
+
+.picks{
+    position: relative;
+    top: 1600px;
+    left: 770px;
+    font-size: 50px;
+background-color:rgb(239, 52, 52);
+border-radius: 10px;
+box-shadow: 10px 10px;
+border-style: groove;
+width: 40%;
+}
+
+
+.ASTHETIC{
+    position: relative;
+    top: 200px;
+    left: 500px;
+    font-size: xx-large;
+
+}
+.david{
+    position: relative;
+    top: 100px;
+    right: 20px;
+    width: 900px;
+    height: 600px;
+    border-radius: 10px;
+}
+
+.BODY-BUILDING{
+    position: relative;
+    top: 162px;
+    right: 450px;
+    font-size: xx-large;
+
+}
+
+
+.Fat{
+    position: relative;
+    top: 950px;
+    right: 500px;
+    font-size: x-large;
+    
+}
+
+.BELLY{
+    position: relative;
+    top: 950px;
+    right: 500px;
+    width: 150px;
+    border-radius: 100px;
+   
+    
+
+}
+
+
+.Para{
+    position: relative;
+    top: 950px;
+    left: -505px;
+    color: gray;
+}
+
+.losefat{
+    position: relative;
+    top: 768px;
+    right: 170px;
+    font-size: x-large;
+
+}
+
+.lose-fat{
+    position: relative;
+    top: 768px;
+    right: 170px;
+    width: 150px;
+    border-radius: 100px;
+}
+.lose-faty{
+    position: relative;
+    top: 768px;
+    right: 170px;
+    color: gray;
+}
+
+.manboobs{
+    position: relative;
+    top: 575px;
+    right: -170px;
+    font-size: x-large;
+}
+
+.manbooby{
+    position: relative;
+    top: 575px;
+    right: -170px;
+    height: 100px;
+    width: 160px;
+    border-radius: 100px;
+}
+.man-boob{
+    position: relative;
+    top: 575px;
+    right: -170px;
+    color: gray;
+}
+
+.core{
+    position: relative;
+    top: 605px;
+    right: -170px;
+    font-size: x-large; 
+}
+
+.corey{
+    position: relative;
+    top: 605px;
+    right: -170px;
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+}
+.coris{
+    position: relative;
+    top: 605px;
+    right: -170px;
+    color: gray;
+}
+
+.sex{
+    position: relative;
+    top: 190px;
+    right: -500px;
+    font-size: x-large;
+}
+.sexy{
+    position: relative;
+    top: 190px;
+    right: -500px;
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+}
+.sexu{
+    position: relative;
+    top: 190px;
+    right: -500px;
+    color: gray;
+}
+.Vcut{
+    position: relative;
+    top: 220px;
+    right: 170px;
+    font-size: x-large;
+}
+.v-cut{
+    position: relative;
+    top: 220px;
+    right: 170px;
+    width: 150px;
+    height: 105px;
+    border-radius: 100px;
+}
+.vcute{
+    position: relative;
+    top: 220px;
+    right: 170px;
+    color: gray;
+}
+
+.Wide{
+    position: relative;
+    top: 35px;
+    right: 500px;
+    font-size: x-large;
+}
+.wider{
+    position: relative;
+    top: 35px;
+    right: 500px;
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+}
+.widey{
+    position: relative;
+    top: 35px;
+    right: 500px;
+    color: gray;
+    
+}
+.run{
+    position: relative;
+    top: -150px;
+    right: -500px;
+    font-size: x-large;
+}
+.runy{
+    position: relative;
+    top: -150px;
+    right: -500px;
+    font-size: x-large;
+    width: 150px;
+    height: 100px;
+    border-radius: 100px;
+}
+.running
+{
+    position: relative;
+    top: -150px;
+    right: -500px;
+color: gray;
+}
+.ran{
+    border-style: none;
+    border-top-style: groove;
+    border-color: grey;
+    border-width: 2px;
+    width: 20%;
+    position: relative;
+    top: -150px;
+    right: 500px;
+}
+.wid{
+   
+        border-style: none;
+        border-top-style: groove;
+        border-color: grey;
+        border-width: 2px;
+        width: 20%;
+        position: relative;
+        top: -190px;
+        right: 500px;
+    
+}
+.vc{
+ 
+        border-style: none;
+        border-top-style: groove;
+        border-color: grey;
+        border-width: 2px;
+        width: 20%;
+        position: relative;
+        right: 170px;
+        top: 220px;
+
+    }
+
+    .bill{
+        border-style: none;
+        border-top-style: groove;
+        border-color: grey;
+        border-width: 2px;
+        width: 20%;
+        position: relative;
+        right: 170px;
+        top: 962px;
+
+    }
+    .fatty{
+        position: relative;
+        top: 770px;
+        right:-160px;
+
+        border-style: none;
+        border-top-style: groove;
+        border-color: grey;
+        border-width: 2px;
+        width: 20%;
+    }
+
+.booby{
+    position: relative;
+        top:800px;
+        right:-160px;
+
+        border-style: none;
+        border-top-style: groove;
+        border-color: grey;
+        border-width: 2px;
+        width: 20%;
+}
+
+
+.cory{
+    position: relative;
+        top:390px
+        ;
+        right:-500px;
+
+        border-style: none;
+        border-top-style: groove;
+        border-color: grey;
+        border-width: 2px;
+        width: 20%;
+}
+.rip{
+    position: relative;
+    top: 430px;
+    ;
+        right:-500px;
+
+        border-style: none;
+        border-top-style: groove;
+        border-color: grey;
+        border-width: 2px;
+        width: 20%;
+}
+ .today{ 
+    width: 400px;
+height: 350px;
+    position: relative;
+bottom: 20px
+;
+right: -430px;
+box-shadow: 10px 10px;
+border-style: groove;
+color: rgba(37, 35, 35, 0.91);
+}
+.tate{
+    position: relative
+    ;
+    right: 250px;
+    bottom:385px
+    ;
+    width: 60%;
+    height: 450px;
+    border-radius: 5%;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+    top: 100px; 
+}
+.Daily-Goals-Overview{
+    position: relative;
+    bottom: 150px;
+    right: 380px;
+    font-size: xx-large;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-display:unset;
+    font-style:oblique;
+
+}
+.Achievement-Index{
+    position: relative;
+    bottom: 150px;
+    right: 400px;
+    font-size: x-large;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-display:unset;
+    font-style:oblique;
+
+}
+
+
+
+.time{
+    position: relative;
+    bottom: 90px;
+    left: 140px;
+
+    font-size: x-large;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-display:unset;
+}
+.container{
+    position: relative;
+  width: 50%;
+  max-width: 250px;
+
+
+}
+.image {
+    display: block;
+    width: 100%;
+    height: 270px;}
+
+    .overlay {
+        position: relative;
+        bottom: 0;
+        background: rgb(0, 0, 0);
+        background: rgba(146, 139, 139, 0.5); /* Black see-through */
+        color: #f1f1f1;
+        width: 100%;
+        transition: .5s ease;
+        opacity:0;
+        color: white;
+        font-size: 20px;
+        padding: 10px;
+        text-align: center;
+      }
+      .container:hover .overlay {
+        opacity: 1;
+      }
+    .Day{
+        position: relative;
+        bottom: 310px;
+        left: 270px;
+        color: black;
+        font-size: x-large;
+        font-style:normal;
+    }
+    .pay{
+        position: relative;
+        bottom: 320px;
+        left: 262px;
+        font-size: large;
+        font-style:normal;
+        color: rgba(128, 128, 128, 0.546);
+    }
+    .thoughts{
+        position: relative;
+        bottom: 330px;
+        left: 270px;
+        color: black;
+        font-size: large;
+        font-style:normal;
+    }
+    .more{
+        position: relative;
+        bottom: 315px;
+        left: 270px;
+        font-size: large;
+        font-style:normal;
+        color: rgb(255, 255, 255);
+        background-color: rgb(11, 93, 236);
+       padding: 10px;
+border-radius: 10px;       
+    }
+   
+    .reading{
+        position: relative
+        ;
+bottom: 830px;
+left: 533px;
+font-size: x-large;
+color: white;
+
+    }
+
+ .Challenge{
+    position: relative;
+    font-size: x-large;
+    color: rgb(213, 25, 25);
+    left: 850px;
+    bottom: 600px;
+ }
+.choose{
+    position: relative;
+    font-size: large;
+    color:rgb(190, 179, 179);
+    left: 876px;
+    bottom: 610px;
+}
+.planking{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    bottom: 580px;
+    left: 630px;
+    border-radius: 90px;
+    border-style:groove;
+    border-color: grey;
+
+}
+.chesty{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    bottom: 786px;
+    left: 880px;
+    border-radius: 90px;
+    border-style:groove;
+    border-color: grey;
+}
+.bike{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    bottom: 993px;
+    left: 1130px;
+    border-radius: 90px;
+    border-style:groove;
+    border-color: grey;
+}
+.free{
+    position: relative;
+    font-size: x-large;
+    color: black;
+    bottom: 800px;
+}
+.rc{
+    position: relative;
+    bottom: 750px;
+    width: 100px;
+
+    height: 100px;
+    border-radius: 100px;
+}
+.as{
+    position: relative;
+    bottom: 1020px;
+    left: 550px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+.cosmic{
+    position: relative;
+    bottom: 860px;
+    left: 170px;
+    font-size: x-large;
+    color: purple;
+    font-style:oblique;
+    font-weight: bold;
+}
+ .king{
+    position: relative;
+    bottom: 870px;
+    left: 205px;
+    font-size: 15px;
+    color: rgb(73, 69, 69);
+    font-style:oblique;
+    font-weight: bold;
+ }
+ .rate{
+    position: relative;
+    bottom: 880px;
+    left: 140px;
+    color: black;
+    font-weight: bold;
+ }
+ .re{
+    position: relative;
+    color: grey;
+    left: 107px;
+    bottom: 895px;
+ }
+ 
+ .chat{
+    position: relative;
+    color: grey;
+    left: 410px;
+    bottom: 1106px;
+    color: white;
+    font-weight: bold;
+    background-color:blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+    width: 60px;
+    height: 20px;
+    
+ }
+ .call{
+    position: relative;
+    color: grey;
+    left: 315px;
+    bottom: 1050px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    background-color: rgb(226, 43, 43);
+    width: 60px;
+    height: 20px;
+    border-radius: 10px;
+ }
+
+.alien{
+    position: relative;
+    bottom: 1257px;
+    left: 766px;
+    font-size: x-large;
+    color: purple;
+    font-style:oblique;
+    font-weight: bold;
+}
+.arnold{
+    position: relative;
+    bottom: 1270px;
+    left: 766px;
+    font-size: 15px;
+    color: rgb(73, 69, 69);
+
+    font-style:oblique;
+    font-weight: bold;
+}
+.rating{
+    position: relative;
+    bottom: 1280px;
+    left: 700px;
+    color: black;
+    font-weight: bold;
+}
+.rep{
+    position: relative;
+    color: grey;
+    left: 668px;
+    bottom: 1295px;
+}
+.calls{
+    position: relative;
+    color: grey;
+    left: 896px;
+    bottom: 1345px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    background-color: rgba(102, 201, 16, 0.768);
+    width: 60px;
+    height: 20px;
+    border-radius: 10px;
+}
+.chats{
+    position: relative;
+    color: grey;
+    left: 990px;
+    bottom: 1401px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    background-color: rgb(43, 46, 226);
+    width: 60px;
+    height: 20px;
+    border-radius: 10px;
+}
+.hr{
+    width:1400px;
+    border-color: rgb(94, 89, 89);
+    border-top-style: solid;
+    position: relative;
+    bottom: 1300px;
+    border-top-style: dotted;
+    border-style: dashed;
+    height: 1px;
+}
+.bitch{
+    width: 20px;
+    top: 100px;
+}
+.info{
+    color: black;
+    font-size: large;
+}
+.about{
+    position: absolute;
+    left: 40px;
+    bottom: 50px;
+    color: blue;
+}
+.team{
+    position: absolute;
+    left: 180px;
+    bottom: 50px;
+    color: blue;
+}
+.terms{
+    position: absolute;
+    left:340px;
+    bottom: 50px;
+    color: blue;
+}
+
+.Privacy{
+    position: absolute;
+    left:480px;
+    bottom: 50px;
+    color: blue;
+
+}
+
+.location{
+    position: absolute;
+    left: 620px;
+    bottom: 50px;
+    color: blue;
+
+}
+.inc{
+    position: relative;
+    top: 70px;
+    left: 230px;
+    color: rgba(54, 52, 52, 0.445);
+}
+.lastline{
+    position: relative;
+top: 100px; 
+border-color: rgb(94, 89, 89);
+
+bottom: 1300px;
+
+
+
+width: 1400px;
+margin-bottom: -2300px;
+}
